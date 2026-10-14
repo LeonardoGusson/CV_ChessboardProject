@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+build/
+build_ninja/
+input_files/dataset1/*
+!input_files/dataset1/.gitkeep
